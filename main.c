@@ -3,8 +3,13 @@
 #include <time.h>
 #include <math.h>
 #include <omp.h>
-// #include <iomanip>
-// #include <iostream>
+
+/*
+ * Author: Benjamin Kaiser
+ * CSC 410 - Parallel Computing
+ * Programming Assignment/Exercise 1 Pi Estimation
+ * /
+
 
 // using namespace std;
 void serialEstimate();
